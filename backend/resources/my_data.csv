@@ -1,0 +1,5 @@
+Project,Description,Tech Stack
+Chatterbox,"Built SassyBot, a conversational AI assistant capable of generating smart, context-aware responses. Designed to deliver engaging, real-time interactions using locally run language models","Ollama, LLMs, React.js, Python, OpenAI"
+Cold Email,"Developed a tool that generates personalized cold emails for recruiters by analyzing job postings and highlighting matching skills and projects. It automates outreach by aligning candidate experience with job requirements","Ollama, LLMs, React.js, Python, Groq, Chromadb, Langchain"
+deepfake detector,,
+pr pilot,,
